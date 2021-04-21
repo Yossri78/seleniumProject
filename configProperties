@@ -1,0 +1,3 @@
+ProjectURL=http://automationpractice.com/index.php
+minTimeout=20
+pathToDriver=chromedriver.exe

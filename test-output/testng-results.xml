@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44919" started-at="2021-04-21T17:12:57 EET" finished-at="2021-04-21T17:13:42 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44919" started-at="2021-04-21T17:12:57 EET" finished-at="2021-04-21T17:13:42 EET">
+      <class name="tests.AutomationPractice_Test">
+        <test-method status="PASS" signature="startProcedure()[pri:0, instance:tests.AutomationPractice_Test@1563da5]" name="startProcedure" is-config="true" duration-ms="12559" started-at="2021-04-21T17:12:57 EET" finished-at="2021-04-21T17:13:09 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcedure -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tests.AutomationPractice_Test@1563da5]" name="test" duration-ms="31319" started-at="2021-04-21T17:13:09 EET" finished-at="2021-04-21T17:13:41 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="quitProcedure()[pri:0, instance:tests.AutomationPractice_Test@1563da5]" name="quitProcedure" is-config="true" duration-ms="942" started-at="2021-04-21T17:13:41 EET" finished-at="2021-04-21T17:13:41 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitProcedure -->
+      </class> <!-- tests.AutomationPractice_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

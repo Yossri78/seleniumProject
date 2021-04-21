@@ -1,0 +1,26 @@
+[
+{
+
+	"firstName" : "Test",
+	"lastname" : "One",
+	"password" : "123456",
+	"days" : "1",
+	"months" : "4",
+	"years" : "2000",
+	"firstNameAddress" : "Test",
+	"lastNameAddress" : "Two",
+	"company" : "TestCompany",
+	"address" : "TestAddress",
+	"state" : "4",
+	"city" : "Test",
+	"postCode" : "12345",
+	"country" : "TestCountry",
+	"phoneNumber" : "123456",
+	"aliasAddress" : "TestAliasAddress",
+	"emailAddressExtention" : "test1125@gmail.com",
+	"userName" : "userName"
+
+
+
+}
+]
